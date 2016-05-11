@@ -1,6 +1,6 @@
 # Pandacinema
 Movie agregator
-- [ ] First commit
-- [ ] Connect to Firebase
+- [x] First commit
+- [x] Connect to Firebase
 - [ ] UICollectionView Header
 - [ ] Data Model
